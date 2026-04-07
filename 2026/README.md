@@ -75,6 +75,11 @@
 - [blackhatlegend/CVE-2026-4447](https://github.com/blackhatlegend/CVE-2026-4447)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-4447">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-4447">
 
 ---
+## CVE-2026-4406 ()
+> 
+- [Hann1bl3L3ct3r/CVE-2026-4406](https://github.com/Hann1bl3L3ct3r/CVE-2026-4406)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-4406">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-4406">
+
+---
 ## CVE-2026-4342 ()
 > 
 - [stuartMoorhouse/CVE-2026-4342](https://github.com/stuartMoorhouse/CVE-2026-4342)	<img alt="forks" src="https://img.shields.io/github/forks/stuartMoorhouse/CVE-2026-4342">	<img alt="stars" src="https://img.shields.io/github/stars/stuartMoorhouse/CVE-2026-4342">
@@ -1887,6 +1892,7 @@
 - [EleniChristopoulou/PoC-CVE-2026-20841](https://github.com/EleniChristopoulou/PoC-CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/EleniChristopoulou/PoC-CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/EleniChristopoulou/PoC-CVE-2026-20841">
 - [404godd/CVE-2026-20841-PoC](https://github.com/404godd/CVE-2026-20841-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/404godd/CVE-2026-20841-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/404godd/CVE-2026-20841-PoC">
 - [hamzamalik3461/CVE-2026-20841](https://github.com/hamzamalik3461/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/hamzamalik3461/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/hamzamalik3461/CVE-2026-20841">
+- [whiskeylab/notepad_CVE_2026_20841](https://github.com/whiskeylab/notepad_CVE_2026_20841)	<img alt="forks" src="https://img.shields.io/github/forks/whiskeylab/notepad_CVE_2026_20841">	<img alt="stars" src="https://img.shields.io/github/stars/whiskeylab/notepad_CVE_2026_20841">
 
 ---
 ## CVE-2026-20833 ()
