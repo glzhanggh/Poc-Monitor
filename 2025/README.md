@@ -268,6 +268,11 @@
 - [YanC1e/CVE-2025-8191](https://github.com/YanC1e/CVE-2025-8191)	<img alt="forks" src="https://img.shields.io/github/forks/YanC1e/CVE-2025-8191">	<img alt="stars" src="https://img.shields.io/github/stars/YanC1e/CVE-2025-8191">
 
 ---
+## CVE-2025-81110 ()
+> 
+- [BridgerAlderson/CVE-2025-81110-PoC](https://github.com/BridgerAlderson/CVE-2025-81110-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-81110-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-81110-PoC">
+
+---
 ## CVE-2025-8110 ()
 > 
 - [rxerium/CVE-2025-8110](https://github.com/rxerium/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-8110">

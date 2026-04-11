@@ -211,6 +211,11 @@
 - [fevar54/forticlient_ems_cve_2026_35616_poc.py](https://github.com/fevar54/forticlient_ems_cve_2026_35616_poc.py)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/forticlient_ems_cve_2026_35616_poc.py">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/forticlient_ems_cve_2026_35616_poc.py">
 
 ---
+## CVE-2026-35584 ()
+> 
+- [LeonardoNovais7/CVE-2026-35584](https://github.com/LeonardoNovais7/CVE-2026-35584)	<img alt="forks" src="https://img.shields.io/github/forks/LeonardoNovais7/CVE-2026-35584">	<img alt="stars" src="https://img.shields.io/github/stars/LeonardoNovais7/CVE-2026-35584">
+
+---
 ## CVE-2026-35570 ()
 > 
 - [Rickidevs/CVE-2026-35570](https://github.com/Rickidevs/CVE-2026-35570)	<img alt="forks" src="https://img.shields.io/github/forks/Rickidevs/CVE-2026-35570">	<img alt="stars" src="https://img.shields.io/github/stars/Rickidevs/CVE-2026-35570">
