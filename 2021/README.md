@@ -3314,6 +3314,7 @@
 - [ramahmdr/PwnKit](https://github.com/ramahmdr/PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/ramahmdr/PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/ramahmdr/PwnKit">
 - [BoianEduard/CVE-2021-40346](https://github.com/BoianEduard/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/BoianEduard/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/BoianEduard/CVE-2021-40346">
 - [devianntsec/CVE-2021-4034-PwnKit-Masters-Thesis](https://github.com/devianntsec/CVE-2021-4034-PwnKit-Masters-Thesis)	<img alt="forks" src="https://img.shields.io/github/forks/devianntsec/CVE-2021-4034-PwnKit-Masters-Thesis">	<img alt="stars" src="https://img.shields.io/github/stars/devianntsec/CVE-2021-4034-PwnKit-Masters-Thesis">
+- [Murguii/DEV-CVE-2021-4034](https://github.com/Murguii/DEV-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Murguii/DEV-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Murguii/DEV-CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
