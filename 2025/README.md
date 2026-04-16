@@ -687,6 +687,11 @@
 - [Tagoletta/CVE-2025-69457](https://github.com/Tagoletta/CVE-2025-69457)	<img alt="forks" src="https://img.shields.io/github/forks/Tagoletta/CVE-2025-69457">	<img alt="stars" src="https://img.shields.io/github/stars/Tagoletta/CVE-2025-69457">
 
 ---
+## CVE-2025-69428 ()
+> 
+- [jasetpen/CVE-2025-69428](https://github.com/jasetpen/CVE-2025-69428)	<img alt="forks" src="https://img.shields.io/github/forks/jasetpen/CVE-2025-69428">	<img alt="stars" src="https://img.shields.io/github/stars/jasetpen/CVE-2025-69428">
+
+---
 ## CVE-2025-6934 ()
 > 
 - [Nxploited/CVE-2025-6934](https://github.com/Nxploited/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6934">
@@ -2588,6 +2593,8 @@
 - [vanhari/CVE-2025-59528](https://github.com/vanhari/CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/vanhari/CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/vanhari/CVE-2025-59528">
 - [r3nsi15/Flowise-RCE-CVE-2025-59528](https://github.com/r3nsi15/Flowise-RCE-CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/Flowise-RCE-CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/Flowise-RCE-CVE-2025-59528">
 - [danhle5402/CVE-2025-59528](https://github.com/danhle5402/CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/danhle5402/CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/danhle5402/CVE-2025-59528">
+- [maradonam18/-CVE-2025-59528-PoC](https://github.com/maradonam18/-CVE-2025-59528-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/maradonam18/-CVE-2025-59528-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/maradonam18/-CVE-2025-59528-PoC">
+- [CVETeam/FlowiseAI-Critical-KillChain](https://github.com/CVETeam/FlowiseAI-Critical-KillChain)	<img alt="forks" src="https://img.shields.io/github/forks/CVETeam/FlowiseAI-Critical-KillChain">	<img alt="stars" src="https://img.shields.io/github/stars/CVETeam/FlowiseAI-Critical-KillChain">
 
 ---
 ## CVE-2025-59503 ()
