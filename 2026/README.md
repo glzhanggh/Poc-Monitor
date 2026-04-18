@@ -560,6 +560,7 @@
 > 
 - [Twinson333/cve-2026-33032-scanner](https://github.com/Twinson333/cve-2026-33032-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Twinson333/cve-2026-33032-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Twinson333/cve-2026-33032-scanner">
 - [Shreda/CVE-2026-33032-nginx-ui-vuln-lab](https://github.com/Shreda/CVE-2026-33032-nginx-ui-vuln-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Shreda/CVE-2026-33032-nginx-ui-vuln-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Shreda/CVE-2026-33032-nginx-ui-vuln-lab">
+- [keraattin/CVE-2026-33032](https://github.com/keraattin/CVE-2026-33032)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-33032">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-33032">
 
 ---
 ## CVE-2026-33017 ()
@@ -1452,6 +1453,9 @@
 - [FrigateCaptain/openclaw_vulnerabilities_and_solutions](https://github.com/FrigateCaptain/openclaw_vulnerabilities_and_solutions)	<img alt="forks" src="https://img.shields.io/github/forks/FrigateCaptain/openclaw_vulnerabilities_and_solutions">	<img alt="stars" src="https://img.shields.io/github/stars/FrigateCaptain/openclaw_vulnerabilities_and_solutions">
 - [Ckokoski/moatbot-security](https://github.com/Ckokoski/moatbot-security)	<img alt="forks" src="https://img.shields.io/github/forks/Ckokoski/moatbot-security">	<img alt="stars" src="https://img.shields.io/github/stars/Ckokoski/moatbot-security">
 - [KajzingerAkos/CVE-2026-25253](https://github.com/KajzingerAkos/CVE-2026-25253)	<img alt="forks" src="https://img.shields.io/github/forks/KajzingerAkos/CVE-2026-25253">	<img alt="stars" src="https://img.shields.io/github/stars/KajzingerAkos/CVE-2026-25253">
+- [Cyber-Warrior-Network/trust-gate-mcp](https://github.com/Cyber-Warrior-Network/trust-gate-mcp)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-Warrior-Network/trust-gate-mcp">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-Warrior-Network/trust-gate-mcp">
+- [msaleme/start-here](https://github.com/msaleme/start-here)	<img alt="forks" src="https://img.shields.io/github/forks/msaleme/start-here">	<img alt="stars" src="https://img.shields.io/github/stars/msaleme/start-here">
+- [ZhaoymOvO/openclaw-1click-rce-env](https://github.com/ZhaoymOvO/openclaw-1click-rce-env)	<img alt="forks" src="https://img.shields.io/github/forks/ZhaoymOvO/openclaw-1click-rce-env">	<img alt="stars" src="https://img.shields.io/github/stars/ZhaoymOvO/openclaw-1click-rce-env">
 
 ---
 ## CVE-2026-25242 ()
