@@ -2160,6 +2160,7 @@
 - [222dff-afk/Blackash-CVE-2025-61882](https://github.com/222dff-afk/Blackash-CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/222dff-afk/Blackash-CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/222dff-afk/Blackash-CVE-2025-61882">
 - [George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE](https://github.com/George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE">
 - [sid-203/Enterprise-Information-Security-Risk-Assessment-Oracle-E-Business-Suite-Case-Study](https://github.com/sid-203/Enterprise-Information-Security-Risk-Assessment-Oracle-E-Business-Suite-Case-Study)	<img alt="forks" src="https://img.shields.io/github/forks/sid-203/Enterprise-Information-Security-Risk-Assessment-Oracle-E-Business-Suite-Case-Study">	<img alt="stars" src="https://img.shields.io/github/stars/sid-203/Enterprise-Information-Security-Risk-Assessment-Oracle-E-Business-Suite-Case-Study">
+- [NetVanguard-cmd/CVE-2025-61882](https://github.com/NetVanguard-cmd/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2025-61882">
 
 ---
 ## CVE-2025-61777 ()
@@ -2586,6 +2587,7 @@
 ## CVE-2025-59536 ()
 > 
 - [RootAid/CVE-2025-59536](https://github.com/RootAid/CVE-2025-59536)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2025-59536">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2025-59536">
+- [NetVanguard-cmd/CVE-2025-59536](https://github.com/NetVanguard-cmd/CVE-2025-59536)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2025-59536">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2025-59536">
 
 ---
 ## CVE-2025-59532 ()
@@ -3447,6 +3449,7 @@
 - [blackquantas/CVE-2025-55315](https://github.com/blackquantas/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/blackquantas/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/blackquantas/CVE-2025-55315">
 - [ZemarKhos/CVE-2025-55315-PoC-Exploit](https://github.com/ZemarKhos/CVE-2025-55315-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ZemarKhos/CVE-2025-55315-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ZemarKhos/CVE-2025-55315-PoC-Exploit">
 - [MartinFabianIonut/CVE-2025-55315](https://github.com/MartinFabianIonut/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/MartinFabianIonut/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/MartinFabianIonut/CVE-2025-55315">
+- [NetVanguard-cmd/CVE-2025-55315](https://github.com/NetVanguard-cmd/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2025-55315">
 
 ---
 ## CVE-2025-55287 ()
