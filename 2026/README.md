@@ -1267,7 +1267,7 @@
 ---
 ## CVE-2026-26399 ()
 > 
-- [Acen28/CVE-2026-26399-Disclousure](https://github.com/Acen28/CVE-2026-26399-Disclousure)	<img alt="forks" src="https://img.shields.io/github/forks/Acen28/CVE-2026-26399-Disclousure">	<img alt="stars" src="https://img.shields.io/github/stars/Acen28/CVE-2026-26399-Disclousure">
+- [Acen28/CVE-2026-26399-Disclosure](https://github.com/Acen28/CVE-2026-26399-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/Acen28/CVE-2026-26399-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/Acen28/CVE-2026-26399-Disclosure">
 
 ---
 ## CVE-2026-2636 ()
