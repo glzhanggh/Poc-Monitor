@@ -1265,6 +1265,11 @@
 - [aksalsalimi/CVE-2026-26416](https://github.com/aksalsalimi/CVE-2026-26416)	<img alt="forks" src="https://img.shields.io/github/forks/aksalsalimi/CVE-2026-26416">	<img alt="stars" src="https://img.shields.io/github/stars/aksalsalimi/CVE-2026-26416">
 
 ---
+## CVE-2026-26399 ()
+> 
+- [Acen28/CVE-2026-26399-Disclousure](https://github.com/Acen28/CVE-2026-26399-Disclousure)	<img alt="forks" src="https://img.shields.io/github/forks/Acen28/CVE-2026-26399-Disclousure">	<img alt="stars" src="https://img.shields.io/github/stars/Acen28/CVE-2026-26399-Disclousure">
+
+---
 ## CVE-2026-2636 ()
 > 
 - [oxfemale/CVE-2026-2636_PoC](https://github.com/oxfemale/CVE-2026-2636_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/oxfemale/CVE-2026-2636_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/oxfemale/CVE-2026-2636_PoC">
